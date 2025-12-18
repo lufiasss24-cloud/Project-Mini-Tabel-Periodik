@@ -150,6 +150,4 @@ def menu():
             break
         else:
             print("Pilihan Tidak Tersedia! / Input Salah")
-
-
 menu()
